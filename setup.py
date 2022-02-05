@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(name="DataProcessingTools",
       version="0.23.0",
       description="""Tools for processing data with hierarchical organization""",
-      url="https://github.com/grero/DataProcessingTools.git",
+      url="https://github.com/arjunkmrm/DataProcessingTools.git",
       author="Roger Herikstad",
       author_email="roger.herikstad@gmail.com",
       license="MIT",

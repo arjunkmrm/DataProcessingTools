@@ -12,7 +12,6 @@ setup(name="DataProcessingTools",
       install_requires=["numpy",
                         "scipy",
                         "matplotlib",
-                        "h5py < 3",
                         "hickle",
                         "pathlib"]
 

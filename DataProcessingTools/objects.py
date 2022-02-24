@@ -124,7 +124,8 @@ class DPObject():
             self.indexer = self.getindex(self.level)
             self.current_idx = None
             if kwargs.get("verbose", 1):
-                print("Object created")
+                #print("Object created")
+                filler_variable = 2
 
     def plot(self, i, ax=None):
         pass
